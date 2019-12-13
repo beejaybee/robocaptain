@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robocaptain/static/css/main.ff50c434.chunk.css",
+    "main.js": "/robocaptain/static/js/main.3bd608c2.chunk.js",
+    "main.js.map": "/robocaptain/static/js/main.3bd608c2.chunk.js.map",
+    "runtime-main.js": "/robocaptain/static/js/runtime-main.fff7f4eb.js",
+    "runtime-main.js.map": "/robocaptain/static/js/runtime-main.fff7f4eb.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robocaptain/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.3f660bbe.chunk.js": "/robocaptain/static/js/2.3f660bbe.chunk.js",
+    "static/js/2.3f660bbe.chunk.js.map": "/robocaptain/static/js/2.3f660bbe.chunk.js.map",
+    "index.html": "/robocaptain/index.html",
+    "precache-manifest.423a6d72c3c6f923bbf61870600ba91f.js": "/robocaptain/precache-manifest.423a6d72c3c6f923bbf61870600ba91f.js",
+    "service-worker.js": "/robocaptain/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robocaptain/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ff50c434.chunk.css.map": "/robocaptain/static/css/main.ff50c434.chunk.css.map",
+    "static/media/App.css": "/robocaptain/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff7f4eb.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.3f660bbe.chunk.js",
+    "static/css/main.ff50c434.chunk.css",
+    "static/js/main.3bd608c2.chunk.js"
+  ]
+}
